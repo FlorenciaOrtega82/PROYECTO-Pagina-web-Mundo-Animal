@@ -1,0 +1,11 @@
+
+.navegacion-container{
+    background-color: black;
+    display: flex;
+}
+
+.navegacion-imagen>img{
+    width: 200px;
+    height: 200px;
+    margin: 0;
+}
